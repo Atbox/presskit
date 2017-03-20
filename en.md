@@ -38,6 +38,7 @@ Artists, Engineers, experts, graduates and job seekers.
 * [Financial Tribune - Interview with Sajjad Rad](http://financialtribune.com/articles/sci-tech/42477/atbox-perfect-cv-job)
 * [Net Start - Introducing Atbox](http://www.netstart.ir/7231/%D8%A7%DB%8C%D9%86-%D8%A8%D8%A7%D8%B1-%D9%81%D8%B1%D8%B5%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%B4%D8%BA%D9%84%DB%8C-%D8%B4%D9%85%D8%A7-%D8%B1%D8%A7-%D9%BE%DB%8C%D8%AF%D8%A7-%D9%85%DB%8C%E2%80%8C%DA%A9/)
 * [1Pezeshk - Introducing Atbox](http://1pezeshk.com/archives/2015/11/atbox.html)
+* [LibJobs - Introducing Atbox](http://libjobs.ir/لذت-داشتن-یک-رزومه-حرفه-ای-را-با-atbox-بچشید/)
 
 
 # Logos #
