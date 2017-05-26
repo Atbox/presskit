@@ -54,7 +54,7 @@
 * [Twitter - EN](https://twitter.com/atbox_resume)
 * [Twitter - FA](https://twitter.com/atbox)
 * [Instagram](https://instagram.com/atbox_io)
-* [Telegram](https://telegram.me/atbox_io)
+* [Telegram](https://telegram.me/atbox)
 * [Facebook](https://facebook.com/atbox)
 * [AngelList](https://angel.co/atbox)
 * [Crunchbase](http://crunchbase.com/organization/atbox-io)
