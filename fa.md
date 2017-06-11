@@ -31,10 +31,11 @@
 
 # اتباکس در رسانه‌ها #
 
+* [وبلاگ cremedelacreme.io - 15 ressources gratuites pour réaliser le meilleur CV](http://blog.cremedelacreme.io/2017/06/08/rh-cv-ressources-gratuites/)
+* [سایت Geek Flare - Comparing Resume builder platforms](https://geekflare.com/free-visual-resume-to-impress/)
 * [سایت وبنا - معرفی اتباکس](http://webna.ir/9318/best-free-resume-builder)
 * [ماهنامه‌ی دانش امروز - معرفی اتباکس](http://daneshemrouz.com/2016/11/22/%D8%B3%D8%A7%D8%AE%D8%AA-%D8%B1%D9%88%D8%B2%D9%85%D9%87-%D8%AF%D8%B1-%D8%A7%D8%AA%D8%A8%D8%A7%DA%A9%D8%B3-%D8%AA%D9%86%D9%87%D8%A7-%D8%AF%D8%B1-160-%D8%AB%D8%A7%D9%86%DB%8C%D9%87/)
 * [ماهنامه‌ی پیوست - معرفی اتباکس](http://peivast.com/solution/%D8%A8%D8%B1%D9%88-%DA%A9%D8%A7%D8%B1-%D9%85%DB%8C%E2%80%8C%DA%A9%D9%86%D8%8C-%D9%86%DA%AF%D9%88-%D9%86%DB%8C%D8%B3%D8%AA-%DA%A9%D8%A7%D8%B1/)
-* [سایت Geek Flare - Comparing Resume builder platforms](https://geekflare.com/free-visual-resume-to-impress/)
 * [روزنامه‌ی Financial Tribune - مصاحبه با سجاد راد](http://financialtribune.com/articles/sci-tech/42477/atbox-perfect-cv-job)
 * [سایت نت استارت - معرفی اتباکس](http://www.netstart.ir/7231/%D8%A7%DB%8C%D9%86-%D8%A8%D8%A7%D8%B1-%D9%81%D8%B1%D8%B5%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%B4%D8%BA%D9%84%DB%8C-%D8%B4%D9%85%D8%A7-%D8%B1%D8%A7-%D9%BE%DB%8C%D8%AF%D8%A7-%D9%85%DB%8C%E2%80%8C%DA%A9/)
 * [سایت یک پزشک - معرفی اتباکس](http://1pezeshk.com/archives/2015/11/atbox.html)
@@ -51,8 +52,7 @@
 * info [at] atbox.io
 
 # شبکه‌های اجتماعی #
-* [Twitter - EN](https://twitter.com/atbox_resume)
-* [Twitter - FA](https://twitter.com/atbox)
+* [Twitter](https://twitter.com/atbox)
 * [Instagram](https://instagram.com/atbox_io)
 * [Telegram](https://telegram.me/atbox)
 * [Facebook](https://facebook.com/atbox)
