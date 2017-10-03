@@ -53,7 +53,7 @@ Artists, Engineers, experts, graduates and job seekers.
 
 # Social #
 * [Twitter](https://twitter.com/atbox_resume)
-* [Instagram](https://instagram.com/atbox_io)
+* [Instagram](https://instagram.com/atbox)
 * [Telegram](https://telegram.me/atbox)
 * [Facebook](https://facebook.com/atbox)
 * [AngelList](https://angel.co/atbox)

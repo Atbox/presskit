@@ -53,7 +53,7 @@
 
 # شبکه‌های اجتماعی #
 * [Twitter](https://twitter.com/atbox)
-* [Instagram](https://instagram.com/atbox_io)
+* [Instagram](https://instagram.com/atbox)
 * [Telegram](https://telegram.me/atbox)
 * [Facebook](https://facebook.com/atbox)
 * [AngelList](https://angel.co/atbox)
