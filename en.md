@@ -6,10 +6,10 @@ Atbox is a resume builder platform which provides the following services:
 
 * Resume builder
   * Online profile, atbox.io/YOU
-  * Over 70 PDF and HTML resume templates
+  * Over 70 PDF and HTML resume templates
   * Networking
   * Multiple resume templates (Pro)
-  * Subdomain, YOU.atbox.io (Pro)
+  * Custom domain, Subdomain (Pro)
 
 * Portfolio hosting
   * Online portfolio, linked to the resume
